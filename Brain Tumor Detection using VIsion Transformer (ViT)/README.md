@@ -13,6 +13,8 @@ Their working can be explained as follows, the input images are uniformly split 
 "train-model.ipynb" contains the preprocessing and training code.
 "inference.ipynb" contains some manual testing.
 
+NOTE: I HAD TO THE CHECKPOINTS AND MODEL WEIGHTS, BECAUSE GITHUB WOULDN'T LET ME POST THEM.
+
 # Requirements
 
 To run this project, you'll need to install the following dependencies:
